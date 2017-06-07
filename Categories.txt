@@ -1,0 +1,5 @@
+Restaurants
+Food
+Bakeries
+Cafes
+Desserts

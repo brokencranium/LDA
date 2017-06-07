@@ -1,0 +1,93 @@
+json
+# Java #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDEA #
+*.iml
+.idea
+*~
+
+# App *
+models/
+model_tips/
+model_reviews/
+
+# IPy #
+.ipynb_checkpoints/
+__py*/
+
+# Maven files #
+data/
+target/
+pom.xml.next
+
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
+
+# Misc #
+/gradle/
+glslogs/
+*.log
+/bin/
+/build/
+/${java.io.tmpdir}/
+nohup.out
+*.bak
+*.ipr
+*.iws
+
+*.launch
+*.pydevproject
+*.swp
+*.tmp
+
+*~.nib
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.apdisk
+.buildpath
+.cproject
+.externalToolBuilders/
+.gradle
+.idea/
+.idea_modules/
+.loadpath
+.metadata
+.mtj.tmp/
+.settings/
+.target
+.texlipse
+/*.iml
+Icon
+Network Trash Folder
+Temporary Items
+atlassian-ide-plugin.xml
+bin/
+build
+com_crashlytics_export_strings.xml
+hs_err_pid*
+local.properties
+out/
+
+pom.xml.versionsBackup
+release.properties
+target/
+tmp/
+/.project
+/.classpath
+/WebContent/
+/test-output/
+jmeter.log
+.factorypath
